@@ -1,0 +1,128 @@
+a{
+  color: maroon;
+}
+
+body {
+  background: #f2f2f2;
+  font-family:'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-size:0.8em;
+  font-weight:300;
+  letter-spacing:.01em;
+  line-height:1.5}
+
+
+.bg-warning {
+  font-size: 1.5rem;
+  font-weight:550;
+  color: white;
+  background-color: darkred !important;
+}
+
+.navbar {
+  padding: 0 10px;
+  margin:0;
+}
+
+.navbar-brand {
+  margin:0;
+  font-size:1.5rem;
+  flex-wrap: wrap;
+  color: white;
+}
+
+.reset {
+  padding-left:5px;
+  color: white;
+  font-size:1rem;
+}
+
+.row {
+  margin: 0;
+}
+
+.chart-stage div {
+  width: 100%;
+}
+
+
+.chart-wrap{
+  background: #fff;
+  border: 3px solid #e2e2e2;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+.chart-wrap .chart-title{
+    border-bottom: 1px solid #d7d7d7;
+    color: maroon;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 7px 10px 4px;
+}
+
+.chart-wrapper {
+  background: #fff;
+  border: 3px solid #e2e2e2;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+
+.chart-wrapper .chart-title {
+  border-bottom: 1px solid #d7d7d7;
+  color: maroon;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 7px 10px 4px;
+}
+
+.chart-wrapper .chart-stage {
+  /*min-height: 240px;*/
+  overflow: hidden;
+  padding: 5px 15px;
+  position: relative;
+}
+
+.chart-wrapper .chart-chart {
+  /*min-height: 240px;*/
+  overflow: hidden;
+  padding: 5px 15px;
+  position: relative;
+  font-size: 20px;
+  font-weight: 400;
+  color: black;
+
+}
+
+.chart-wrapper .chart-section {
+  overflow: hidden;
+  padding: 5px 10px;
+  position: relative;
+  font-size: 15px;
+  font-weight: 300;
+  color: black;
+
+}
+
+.chart-wrapper .chart-sec {
+  overflow: hidden;
+  padding: 5px 4px;
+  position: relative;
+  font-size: 15px;
+  font-weight: 400;
+  color: black;
+
+}
+
+
+#year-selector {
+  margin-left: 5px;
+}
+
+blockquote{
+  font-size:1.5em;
+  font-weight: 550;
+  font-family: 'Roboto';
+  color: maroon;
+  border-left:0.3rem solid #d1d1d1;margin-left:0;margin-right:0;padding:1rem 1.5rem
+}
